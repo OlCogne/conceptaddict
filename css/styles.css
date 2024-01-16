@@ -21,6 +21,18 @@ p{
 	text-align: center;
 }
 
+#serv_pa{
+	font-size: 200%;
+}
+
+#serv_pb{
+	font-size: 200%;
+}
+
+#serv_pc{
+	font-size: 200%;
+}
+
 section.top-page {
 	background: url(../img/fond_numerique_noir.jpg);
 	background-size: cover;
