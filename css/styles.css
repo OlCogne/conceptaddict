@@ -36,7 +36,7 @@ p{
 section.top-page {
 	background: url(../img/fond_numerique_noir.jpg);
 	background-size: cover;
-	height: 100vh;
+	
 	padding: 25px;
 
 }
@@ -50,7 +50,7 @@ section.top-page {
 #where{
 	position: absolute;
 	left: 1100px;
-	top: 700px;
+	top: 1700px;
 	font-size: 40px;
 }
 
@@ -82,11 +82,15 @@ nav.nav {
 }
 
 
-a {
+.pa {
 	color: aliceblue;
-	text-decoration: none;
 	
 
+}
+
+a{
+	color: aliceblue;
+	text-decoration: none;
 }
 
 a:hover {
